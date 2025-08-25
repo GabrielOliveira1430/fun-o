@@ -30,3 +30,5 @@ async function perguntarIdade(){
     }
 
     perguntarIdade();
+
+    // teste
